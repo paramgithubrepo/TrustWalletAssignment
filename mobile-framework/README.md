@@ -14,6 +14,7 @@
 - Android Studio / Platform Tools
 - Appium
 - Appium Inspector
+- APK file in path: src/test/resources/apk/TrustWallet.apk
 
 ## Build and Run
 #### Using Maven
